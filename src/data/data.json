@@ -1,0 +1,136 @@
+{
+"Header": {
+  "title": "Innovate with HABB",
+  "paragraph": " At HABB, we specialize in cutting-edge software solutions that empower businesses and individuals to thrive in the digital age. We combine innovation, user-centric design, and AI-driven insights to build scalable and secure applications."
+},
+  "About": {
+    "paragraph": "HABB is a forward-thinking software company specializing in custom software development, AI solutions, and cloud-based services. Our mission is to build scalable, high-performance applications that drive business success. With expertise in modern frameworks, cloud technologies, and AI-driven insights, we deliver impactful solutions tailored to your needs.",
+    "Why": [
+      "Custom software solutions",
+      "AI & machine learning expertise",
+      "Cloud & DevOps integration",
+      "Scalable and secure applications"
+    ],
+    "Why2": [
+      "User-centric design",
+      "Agile development process",
+      "Data-driven decision making",
+      "Continuous innovation & improvement"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Web & Mobile Applications",
+      "largeImage": "img/portfolio/habblogo.jpg",
+      "smallImage": "img/portfolio/habblogo.jpg"
+    },
+    {
+      "title": "AI-Powered Solutions",
+      "largeImage": "img/portfolio/habblogo2.png",
+      "smallImage": "img/portfolio/habblogo2.png"
+    },
+    {
+      "title": "Cloud & DevOps",
+      "largeImage": "img/portfolio/habblogo.jpg",
+      "smallImage": "img/portfolio/habblogo.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "Software Development",
+      "text": "We build high-quality, scalable applications tailored to your business needs, leveraging the latest technologies."
+    },
+    {
+      "icon": "fa fa-spinner",
+      "name": "AI & Automation",
+      "text": "Harness the power of AI and automation to optimize workflows, enhance decision-making, and drive innovation."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Cloud & DevOps",
+      "text": "Seamlessly integrate cloud services and DevOps practices for scalability, reliability, and performance."
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "Cybersecurity Solutions",
+      "text": "Secure your digital assets with our advanced cybersecurity strategies, ensuring data protection and compliance."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/client-1.jpg",
+      "text": "\"HABB transformed our business with their AI-driven solutions, making our processes more efficient and intelligent.\"",
+      "name": "Abisekan, CEO of HiTech Creations"
+    },
+    {
+      "img": "img/testimonials/client-2.jpg",
+      "text": "\"The team at HABB delivers outstanding web and mobile applications, perfectly aligned with our vision.\"",
+      "name": "Senth Vyra, Founder of Senth Inc"
+    },
+    {
+      "img": "img/testimonials/client-3.jpg",
+      "text": "\"HABB designed a stunning and user-friendly e-commerce platform for us. Our customers love the seamless shopping experience!",
+      "name": "Karunya Sarees"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/thenujan.jpg",
+      "name": "Thenujan Amirthanathan",
+      "job": "Co-Founder & Lead Engineer"
+    },
+    {
+      "img": "img/team/thulaxan.jpg",
+      "name": "Thulaxan Uthayakumar",
+      "job": "Co-Founder & Full Stack Developer"
+    },
+    {
+      "img": "img/team/senthalan.jpg",
+      "name": "Senthalan Vyravanathan",
+      "job": "Co-Founder & Software Engineer"
+    },
+    {
+      "img": "img/team/sanjeev.jpg",
+      "name": "Sanjeev Vijayaratnam",
+      "job": "Co-Founder & Managing Director"
+    },
+    {
+      "img": "img/team/thanushan.jpg",
+      "name": "Thanushan Vijayaratnam",
+      "job": "Co-Founder & Mentor"
+    }
+  ],
+  "Contact": {
+    "address": "11, Ward No-4, Puthukudiyiruppu, Mullaitivu, Sri Lanka",
+    "phone": "+94765369064",
+    "email": "senthvyra@gmail.com",
+    "facebook": "https://www.facebook.com/habbinc",
+    "twitter": "https://www.twitter.com/habb_inc",
+    "linkedin": "https://www.linkedin.com/company/habbinc",
+    "instagram": "https://www.instagram.com/habb_inc",
+    "youtube": "https://www.youtube.com/@habbinc"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-lightbulb-o",
+      "title": "Innovation at Core",
+      "text": "We leverage cutting-edge technology to deliver intelligent and scalable solutions."
+    },
+    {
+      "icon": "fa fa-users",
+      "title": "Client-Focused Approach",
+      "text": "Our solutions are designed to enhance user experience and business performance."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "title": "Data-Driven Decisions",
+      "text": "We integrate analytics and AI to make informed decisions and optimize workflows."
+    },
+    {
+      "icon": "fa fa-lock",
+      "title": "Security & Compliance",
+      "text": "Ensuring your digital assets are protected with industry-standard security measures."
+    }
+  ]
+}
