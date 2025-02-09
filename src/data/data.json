@@ -21,18 +21,18 @@
   "Gallery": [
     {
       "title": "Web & Mobile Applications",
-      "largeImage": "img/portfolio/web-app.jpg",
-      "smallImage": "img/portfolio/web-app-small.jpg"
+      "largeImage": "img/portfolio/habblogo.jpg",
+      "smallImage": "img/portfolio/habblogo.jpg"
     },
     {
       "title": "AI-Powered Solutions",
-      "largeImage": "img/portfolio/ai.jpg",
-      "smallImage": "img/portfolio/ai-small.jpg"
+      "largeImage": "img/portfolio/habblogo.jpg",
+      "smallImage": "img/portfolio/habblogo.jpg"
     },
     {
       "title": "Cloud & DevOps",
-      "largeImage": "img/portfolio/cloud.jpg",
-      "smallImage": "img/portfolio/cloud-small.jpg"
+      "largeImage": "img/portfolio/habblogo.jpg",
+      "smallImage": "img/portfolio/habblogo.jpg"
     }
   ],
   "Services": [
@@ -59,14 +59,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/client1.jpg",
+      "img": "img/testimonials/client-1.jpg",
       "text": "\"HABB transformed our business with their AI-driven solutions, making our processes more efficient and intelligent.\"",
-      "name": "David Smith, CEO of TechCorp"
+      "name": "Abisekan, CEO of HiTech Creations"
     },
     {
-      "img": "img/testimonials/client2.jpg",
+      "img": "img/testimonials/client-2.jpg",
       "text": "\"The team at HABB delivers outstanding web and mobile applications, perfectly aligned with our vision.\"",
-      "name": "Sarah Johnson, Founder of InnovateX"
+      "name": "Senth Vyra, Founder of Senth Inc"
+    },
+    {
+      "img": "img/testimonials/client-3.jpg",
+      "text": "\"HABB designed a stunning and user-friendly e-commerce platform for us. Our customers love the seamless shopping experience!",
+      "name": "Karunya Sarees"
     }
   ],
   "Team": [
@@ -86,7 +91,7 @@
       "job": "Co-Founder & Software Engineer"
     },
     {
-      "img": "img/team/senthalan.jpg",
+      "img": "img/team/sanjeev.jpg",
       "name": "Sanjeev Vijayaratnam",
       "job": "Co-Founder & Managing Director"
     },
