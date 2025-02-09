@@ -1,8 +1,8 @@
 {
-  "Header": {
-    "title": "Innovate with HABB",
-    "paragraph": "At HABB, we specialize in cutting-edge software solutions that empower businesses and individuals to thrive in the digital age. We combine innovation, user-centric design, and AI-driven insights to build scalable and secure applications."
-  },
+"Header": {
+  "title": "Innovate with HABB",
+  "paragraph": " At HABB, we specialize in cutting-edge software solutions that empower businesses and individuals to thrive in the digital age. We combine innovation, user-centric design, and AI-driven insights to build scalable and secure applications."
+},
   "About": {
     "paragraph": "HABB is a forward-thinking software company specializing in custom software development, AI solutions, and cloud-based services. Our mission is to build scalable, high-performance applications that drive business success. With expertise in modern frameworks, cloud technologies, and AI-driven insights, we deliver impactful solutions tailored to your needs.",
     "Why": [
@@ -26,8 +26,8 @@
     },
     {
       "title": "AI-Powered Solutions",
-      "largeImage": "img/portfolio/habblogo.jpg",
-      "smallImage": "img/portfolio/habblogo.jpg"
+      "largeImage": "img/portfolio/habblogo2.png",
+      "smallImage": "img/portfolio/habblogo2.png"
     },
     {
       "title": "Cloud & DevOps",
