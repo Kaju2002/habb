@@ -60,13 +60,13 @@
   "Testimonials": [
     {
       "img": "img/testimonials/client-1.jpg",
-      "text": "\"HABB transformed our business with their AI-driven solutions, making our processes more efficient and intelligent.\"",
-      "name": "Abisekan, CEO of HiTech Creations"
+      "text": "\"HABB transformed our business with their AI-driven solutions, making our processes more efficient and intelligent.\",
+      "name": "HiTech Creations"
     },
     {
       "img": "img/testimonials/client-2.jpg",
-      "text": "\"The team at HABB delivers outstanding web and mobile applications, perfectly aligned with our vision.\"",
-      "name": "Senth Vyra, Founder of Senth Inc"
+      "text": "\"The team at HABB delivers outstanding web and mobile applications, perfectly aligned with our vision.\",
+      "name": "Senth Inc"
     },
     {
       "img": "img/testimonials/client-3.jpg",
