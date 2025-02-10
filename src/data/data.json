@@ -100,10 +100,15 @@
       "name": "Sanjeev Vijayaratnam",
       "job": "Co-Founder & Managing Director"
     },
-    {
+        {
       "img": "img/team/thanushan.jpg",
       "name": "Thanushan Vijayaratnam",
-      "job": "Co-Founder & Mentor"
+      "job": "Co-Founder"
+    },
+    {
+      "img": "img/team/raj.jpg",
+      "name": "Raj Puvan",
+      "job": "Mentor"
     }
   ],
   "Contact": {
